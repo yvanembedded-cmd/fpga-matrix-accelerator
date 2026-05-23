@@ -112,6 +112,6 @@ Detailed architecture documentation is available in the `/docs` directory:
 
 ## Author
 
-Yvan Bota  
+Yvan Brillant Bota  
 ECE @ KSU  
 Embedded Systems | FPGA | Energy Systems | Hardware Acceleration
