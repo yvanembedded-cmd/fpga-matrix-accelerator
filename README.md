@@ -76,6 +76,16 @@ fpga-matrix-accelerator/
 └── results/
 ```
 
+## Documentation
+
+Detailed architecture documentation is available in the `/docs` directory:
+
+- Architecture Overview
+- Optimization Flow
+- Memory Hierarchy
+- Pipeline Behavior
+- Performance Analysis
+
 ## Running the Project
 
 1. Open Vitis HLS 2023.2
