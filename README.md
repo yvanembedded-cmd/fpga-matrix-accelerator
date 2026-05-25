@@ -72,8 +72,7 @@ fpga-matrix-accelerator/
 ├── hls/
 ├── testbench/
 ├── waveforms/
-├── reports/
-└── results/
+└── reports/
 ```
 
 ## Documentation
